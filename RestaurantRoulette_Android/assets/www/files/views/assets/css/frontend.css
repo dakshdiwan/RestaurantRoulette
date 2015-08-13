@@ -1,0 +1,56 @@
+.ui-select .ui-btn > span:not(.ui-li-count) {
+    text-align: left;
+}
+
+.ui-page-theme-a .ui-btn {
+    border-radius: 0px;
+}
+
+.startScreen_recenter {
+    float: right;
+    border: none;
+}
+
+.startScreen_drop_pin {
+    float: right;
+    border: none;
+}
+
+.startScreen_details {
+    float: right;
+}
+
+img.startScreen_reserve_table {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.startScreen_opentable_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ui-btn.startScreen_header_button {
+	pointer-events: none;
+    font-weight: 400;
+}
+
+.ui-btn.startScreen_header_button {
+	pointer-events: none;
+    font-weight:400;
+}
+
+.ui-btn.startScreen_filters_header {
+	pointer-events: none;
+    font-weight: 400;  
+}
+
+.ui-content.startScreen_mobilecontainer {
+    background-color: #ededed;
+}
+
+.ui-panel {
+    background-color: #d3d3d3;
+}
